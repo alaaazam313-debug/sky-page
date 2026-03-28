@@ -36,7 +36,7 @@ body {
 
 .icons i:hover {
     transform: scale(1.2);
-    background: #e60000;
+    background: none;
     color:#c51f1f; /* تأثير hover */
 }
 
